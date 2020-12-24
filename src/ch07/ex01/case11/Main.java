@@ -18,5 +18,3 @@ public class Main {
 		Console.info("앱을 종료합니다.");
 	}
 }
-
-
